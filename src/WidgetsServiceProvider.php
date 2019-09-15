@@ -1,14 +1,15 @@
 <?php
 
-namespace Arrilot\Widgets;
+namespace Wuwx\LaravelWidgets;
 
 use Arrilot\Widgets\Console\WidgetMakeCommand;
 use Arrilot\Widgets\Factories\AsyncWidgetFactory;
 use Arrilot\Widgets\Factories\WidgetFactory;
 use Arrilot\Widgets\Misc\LaravelApplicationWrapper;
 use Illuminate\Support\Facades\Blade;
+use Illuminate\Support\ServiceProvider;
 
-class ServiceProvider extends \Illuminate\Support\ServiceProvider
+class WidgetsServiceProvider extends ServiceProvider
 {
     /**
      * Register the service provider.

@@ -1,8 +1,10 @@
 <?php
 
-namespace Arrilot\Widgets;
+namespace Wuwx\LaravelWidgets\Facades;
 
-class AsyncFacade extends \Illuminate\Support\Facades\Facade
+use Illuminate\Support\Facades\Facade;
+
+class AsyncWidget extends Facade
 {
     protected static function getFacadeAccessor()
     {

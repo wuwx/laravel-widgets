@@ -1,8 +1,10 @@
 <?php
 
-namespace Arrilot\Widgets;
+namespace Wuwx\LaravelWidgets\Facades;
 
-class Facade extends \Illuminate\Support\Facades\Facade
+use Illuminate\Support\Facades\Facade;
+
+class Widget extends Facade
 {
     protected static function getFacadeAccessor()
     {

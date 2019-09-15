@@ -41,11 +41,11 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Arrilot\\Widgets\\ServiceProvider"
+                "Wuwx\\LaravelWidgets\\WidgetsServiceProvider"
             ],
             "aliases": {
-                "Widget": "Arrilot\\Widgets\\Facade",
-                "AsyncWidget": "Arrilot\\Widgets\\AsyncFacade"
+                "Widget": "Arrilot\\Widgets\\Facades\\Widget",
+                "AsyncWidget": "Arrilot\\Widgets\\Facades\\AsyncWidget"
             }
         }
     }
