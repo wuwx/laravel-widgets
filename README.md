@@ -9,7 +9,7 @@
 
 ## Installation
 
-Run ```composer require wuwx/laravel-widgets:dev```
+Run ```composer require wuwx/laravel-widgets:dev-master```
 
 Laravel >=5.5 uses Package Auto-Discovery, so you don't need to manually add the ServiceProvider and Facades
 
