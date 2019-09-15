@@ -1,7 +1,7 @@
-[![Latest Stable Version](https://poser.pugx.org/arrilot/laravel-widgets/v/stable.svg)](https://packagist.org/packages/arrilot/laravel-widgets/)
-[![Total Downloads](https://img.shields.io/packagist/dt/arrilot/laravel-widgets.svg)](https://packagist.org/packages/arrilot/laravel-widgets)
-[![Build Status](https://img.shields.io/travis/arrilot/laravel-widgets/master.svg)](https://travis-ci.org/arrilot/laravel-widgets)
-[![Scrutinizer Quality Score](https://img.shields.io/scrutinizer/g/arrilot/laravel-widgets/master.svg)](https://scrutinizer-ci.com/g/arrilot/laravel-widgets/)
+[![Latest Stable Version](https://poser.pugx.org/wuwx/laravel-widgets/v/stable.svg)](https://packagist.org/packages/wuwx/laravel-widgets/)
+[![Total Downloads](https://img.shields.io/packagist/dt/wuwx/laravel-widgets.svg)](https://packagist.org/packages/wuwx/laravel-widgets)
+[![Build Status](https://img.shields.io/travis/wuwx/laravel-widgets/master.svg)](https://travis-ci.org/wuwx/laravel-widgets)
+[![Scrutinizer Quality Score](https://img.shields.io/scrutinizer/g/wuwx/laravel-widgets/master.svg)](https://scrutinizer-ci.com/g/wuwx/laravel-widgets/)
 
 # Widgets for Laravel
 
@@ -9,7 +9,7 @@
 
 ## Installation
 
-Run ```composer require arrilot/laravel-widgets```
+Run ```composer require wuwx/laravel-widgets:dev```
 
 Laravel >=5.5 uses Package Auto-Discovery, so you don't need to manually add the ServiceProvider and Facades
 
